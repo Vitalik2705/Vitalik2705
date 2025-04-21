@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitalik2705&label=Profile%20views&color=0e75b6&style=flat" alt="vitalik2705" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitalik2705" alt="Vitalik2705" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/vyatskiv4547" target="blank"><img src="https://img.shields.io/twitter/follow/vyatskiv4547?logo=twitter&style=for-the-badge" alt="vyatskiv4547" /></a> </p>
 
 - 🌱 I’m currently learning **Java, React, TypeScript**
